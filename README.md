@@ -12,9 +12,9 @@
    [* 팀원 소개](#-팀원-소개)
 <br>
 [2. 프로그램 구조](#-2.-프로그램-구조)
-   * ER Diagram
-   * Usecase Diagram
-   * 테이블 명세서
+   [* ER Diagram](#-ER-Diagram)
+   [* Usecase Diagram](#-Usecase-Diagram)
+   [* 테이블 명세서](#-테이블-명세서)
 <br>
 [3. 개별 페이지 안내](#-3.-개별-페이지-안내)
 <br> 
