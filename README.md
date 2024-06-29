@@ -14,7 +14,6 @@
 [2. 프로그램 구조](#-2.-프로그램-구조)
    - [ER Diagram](#-ER-Diagram)
    - [Usecase Diagram](#-Usecase-Diagram)
-   - [테이블 명세서](#-테이블-명세서)
 
 [3. 개별 페이지 안내](#-3.-개별-페이지-안내)
 
@@ -64,13 +63,6 @@
 
 ### 🔹 Usecase Diagram
 ![usecase](https://github.com/Miihyunee/CafeManagement/assets/151993240/1e849b0f-62ef-4467-bc7a-94c518d0e8af)
-
-<br>
-
-### 🔹 테이블 명세서
-![db1](https://github.com/Miihyunee/CafeManagement/assets/151993240/373a261c-d24b-4264-8c71-c2d554cfe69f)
-
-![db2](https://github.com/Miihyunee/CafeManagement/assets/151993240/a6a195b3-b6b0-4425-83f8-0f33286c63ce)
 
 <br>
 
